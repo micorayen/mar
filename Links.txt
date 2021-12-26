@@ -1,0 +1,20 @@
+1. Customer Support Management System
+https://www.youtube.com/watch?v=Pit7IiBHmCw
+
+2. Voting System
+https://www.youtube.com/watch?v=bSJuUQYHzI4
+
+3. TicTacToe(5x5)
+https://www.youtube.com/watch?v=xX8zll8STYc
+
+4. Age Calculator
+https://www.youtube.com/watch?v=6N4KFllLkKs
+
+5. Alarm Clock
+https://www.youtube.com/watch?v=Hr9leysWD9A
+
+6. Login & SignUp(CRUD)
+https://www.youtube.com/watch?v=d1vT4kkTCaw
+
+7. Loan Calculator
+https://www.youtube.com/watch?v=WVXYO-_309U
