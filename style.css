@@ -302,7 +302,7 @@ html {
 }
 
 .project:hover .project-link {
-  bottom: 5.5rem;
+  bottom: 5.7rem;
   transition: bottom 0.3s 0.3s;
 }
 
@@ -320,7 +320,7 @@ html {
 }
 
 .project:hover .project-link-2 {
-  bottom: 2.1rem;
+  bottom: 2rem;
   transition: bottom 0.3s 0.3s;
 }
 /* End of Section 3 */
