@@ -14,7 +14,6 @@ https://www.youtube.com/watch?v=6N4KFllLkKs
 https://www.youtube.com/watch?v=Hr9leysWD9A
 
 6. Login & SignUp(CRUD)
-https://www.youtube.com/watch?v=d1vT4kkTCaw
 
 7. Loan Calculator
 https://www.youtube.com/watch?v=WVXYO-_309U

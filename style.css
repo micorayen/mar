@@ -302,7 +302,7 @@ html {
 }
 
 .project:hover .project-link {
-  bottom: 5.8rem;
+  bottom: 5.5rem;
   transition: bottom 0.3s 0.3s;
 }
 
